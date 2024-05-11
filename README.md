@@ -11,5 +11,5 @@ Analyse 5000+ articles from over 6+ newspapers and find out the whether it is re
  5. Then encode the categorical target to numerical one - lone yes to 1 and no to 0.
  6. Then convert the text to vectors using TF-IDF.
  7. Use any any classification model, since the target is binary class. Here I've used MLPClassifier to perform classification.
-      * - Skills needed : **_Python_**
+      * - Skills involved : **_Python_** **_Machine Learning_**, **_Deep Learning_**, **_Natural Language Processing_**
 
